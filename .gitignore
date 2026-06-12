@@ -1,0 +1,21 @@
+# Generated at runtime
+uploads/
+logs/
+reports/
+*.log
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
